@@ -1,0 +1,16 @@
+bitermplus
+gensim==3.8.3
+humanize
+nltk
+pandas==1.3.3
+openpyxl
+matplotlib
+networkx
+tqdm
+pyldavis
+tmplot
+p_tqdm
+plotly
+pymysql
+pyyaml
+torch
